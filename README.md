@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omacolog&show_icons=true&locale=en" alt="omacolog" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omacolog&" alt="omacolog" /></p>
+
+![snake gif](https://github.com/omacolog/omacolog/blob/output/github-contribution-grid-snake.gif)
