@@ -30,4 +30,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omacolog&" alt="omacolog" /></p>
 
-![snake gif](https://github.com/omacolog/omacolog/blob/output/github-contribution-grid-snake.gif)
