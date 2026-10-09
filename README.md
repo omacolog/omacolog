@@ -65,6 +65,18 @@ I handled the **entire project end to end**, adapting the platform to the compan
   <a href="https://play.google.com/store/apps/details?id=com.sayazilim.sariexpress&hl=tr" target="_blank"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" /></a>
 </p>
 
+#### 🍽️ [Hesap Adisyon](https://hesapadisyon.com/) — Restaurant POS, Delivery Orders & Table Management
+
+A restaurant point-of-sale system covering orders, delivery and table management. I contribute to the project as part of the development team.
+
+- 📱 **Waiter Mobile App:** developed the mobile app waiters use to take and manage table orders
+- 🔗 **Integrations:** worked on integrating the system with other third-party software
+- 🛠️ **Ongoing Development:** support the team on general feature requests and improvements
+
+<p align="left">
+  <a href="https://hesapadisyon.com/" target="_blank"><img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+</p>
+
 ---
 
 ### 🛠️ Tech Stack
