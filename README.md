@@ -21,7 +21,7 @@ I'm a full stack developer who builds products end to end, from database design 
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 #### 🛵 [Hesap Kurye](https://hesapkurye.com.tr/) — Automated Delivery Management Super App
 
@@ -48,6 +48,21 @@ I designed and built the **entire platform end to end** as the sole developer: p
   <a href="https://hesapkurye.com.tr/" target="_blank"><img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://apps.apple.com/tr/app/hesap-kurye/id6475054840?l=tr" target="_blank"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store" /></a>
   <a href="https://play.google.com/store/apps/details?id=com.sayazilim.hesapkurye&hl=tr" target="_blank"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" /></a>
+</p>
+
+#### 🟡 [Sarı Express](https://sariexpress.tr/) — Custom Courier Delivery Platform
+
+A courier delivery management platform tailored for another company, built on the same architecture as Hesap Kurye and live on both the App Store and Google Play.
+I handled the **entire project end to end**, adapting the platform to the company's own workflows and brand.
+
+- 🧩 **Customization:** tailored the business logic, workflows and branding to the client's needs
+- ⚙️ **Full Stack Delivery:** database, **.NET** backend, Admin / Courier Company / Restaurant panels and the **Flutter** mobile app
+- 🚢 **Release & Maintenance:** published and maintained the app on both stores
+
+<p align="left">
+  <a href="https://sariexpress.tr/" target="_blank"><img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://apps.apple.com/tr/app/sar%C4%B1-express/id6744689141?l=tr" target="_blank"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.sayazilim.sariexpress&hl=tr" target="_blank"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" /></a>
 </p>
 
 ---
