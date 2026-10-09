@@ -19,6 +19,25 @@
 
 ---
 
+### 🚀 Featured Project
+
+#### 🛵 [Hesap Kurye](https://hesapkurye.com.tr/) — Automated Delivery Management Super App
+
+A super app for automated package and courier delivery management, live on both the App Store and Google Play.
+I led the project **end to end**: from product planning and architecture to development and store release.
+
+- 🧭 **Planning & Architecture:** defined the product scope, app structure and technical roadmap
+- 📱 **Cross-Platform Development:** built with **Flutter** for iOS and Android from a single codebase
+- 🚢 **Release & Maintenance:** published and maintained the app on both stores
+
+<p align="left">
+  <a href="https://hesapkurye.com.tr/" target="_blank"><img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://apps.apple.com/tr/app/hesap-kurye/id6475054840?l=tr" target="_blank"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.sayazilim.hesapkurye&hl=tr" target="_blank"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" /></a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 **Mobile**
