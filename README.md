@@ -26,11 +26,23 @@ I'm a full stack developer who builds products end to end, from database design 
 #### 🛵 [Hesap Kurye](https://hesapkurye.com.tr/) — Automated Delivery Management Super App
 
 A super app for automated package and courier delivery management, live on both the App Store and Google Play.
-I led the project **end to end**: from product planning and architecture to development and store release.
+I designed and built the **entire platform end to end** as the sole developer: product planning, database, backend, three web panels and the mobile app.
 
-- 🧭 **Planning & Architecture:** defined the product scope, app structure and technical roadmap
-- 📱 **Cross-Platform Development:** built with **Flutter** for iOS and Android from a single codebase
+- 🧭 **Planning & Architecture:** defined the product scope, system architecture and technical roadmap
+- 🗄️ **Database:** designed the data model and wrote and optimized the queries behind the platform
+- ⚙️ **Backend:** built the **REST API** with **.NET** that powers the mobile app and all web panels
+- 🖥️ **Web Panels:** developed three role-based dashboards
+  - **Admin Panel** for platform-wide management
+  - **Courier Company Panel** for courier firms to manage their fleets and deliveries
+  - **Restaurant Panel** for restaurants to create and track their orders
+- 📱 **Mobile App:** built with **Flutter** for iOS and Android from a single codebase
 - 🚢 **Release & Maintenance:** published and maintained the app on both stores
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
 
 <p align="left">
   <a href="https://hesapkurye.com.tr/" target="_blank"><img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
