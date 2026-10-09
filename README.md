@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Omaç</h1>
-<h3 align="center">Mobile Developer from Türkiye 🇹🇷 · Building cross-platform apps with Flutter</h3>
+<h3 align="center">Full Stack Developer from Türkiye 🇹🇷 · Flutter · .NET · SQL</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omacolog&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -10,11 +10,13 @@
 
 ### 🙋‍♂️ About Me
 
-- 📱 I build **cross-platform mobile apps** with **Flutter & Dart**
-- 🍎 Currently diving into **native iOS development with Swift**
-- 🔥 Experienced with **Firebase** for auth, database and push notifications
-- 💬 Ask me about **Flutter, Dart, state management and mobile UI**
-- 🤝 Open to collaboration on open-source mobile projects
+I'm a full stack developer who builds products end to end, from database design to the backend API to the mobile app in users' hands.
+
+- 📱 **Mobile:** cross-platform apps for iOS and Android with **Flutter & Dart**
+- ⚙️ **Backend:** **Web APIs**, **MVC** applications and **admin dashboards** with **.NET & .NET Core**
+- 🗄️ **Database:** database design and planning, query writing and optimization on **SQL Server** and **MySQL**
+- 🌱 Currently learning **Swift**, **React** and **Java**
+- 💬 Ask me about **Flutter, .NET, REST APIs and database design**
 - 📫 Reach me at **mehmetomac0@gmail.com**
 
 ---
@@ -40,29 +42,45 @@ I led the project **end to end**: from product planning and architecture to deve
 
 ### 🛠️ Tech Stack
 
-**Mobile**
+**📱 Mobile**
 
 <p align="left">
-  <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,swift,firebase" alt="Mobile stack" /></a>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="Mobile stack" />
 </p>
 
-**Backend & Languages**
+**⚙️ Backend**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js" alt="Backend and languages" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="Backend stack" />
+  <br />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Web API" />
+  <img src="https://img.shields.io/badge/MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="MVC" />
 </p>
 
-**Web**
+**🖥️ Web & Dashboards**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="Web stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Web stack" />
 </p>
 
-**Databases & Tools**
+**🗄️ Databases**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,postman" alt="Databases and tools" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+</p>
+
+**🧰 Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode" alt="Tools" />
+</p>
+
+**🌱 Currently Learning**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=swift,react,java" alt="Currently learning" />
 </p>
 
 ---
