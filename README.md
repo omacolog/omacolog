@@ -1,32 +1,72 @@
 <h1 align="center">Hi 👋, I'm Mehmet Omaç</h1>
-<h3 align="center">A passionate mobile developer from Türkiye</h3>
+<h3 align="center">Mobile Developer from Türkiye 🇹🇷 · Building cross-platform apps with Flutter</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omacolog&label=Profile%20views&color=0e75b6&style=flat" alt="omacolog" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omacolog" alt="omacolog" /></a> </p>
-
-- 🔭 I’m currently working on **Flutter**
-
-- 🌱 I’m currently learning **Swift**
-
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **mehmetomac0@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/omacolog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omacolog" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omacolog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omacolog" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/omacolog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="omacolog" height="30" width="40" /></a>
-<a href="https://instagram.com/omacolog_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omacolog_" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omacolog&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/omacolog?tab=followers"><img src="https://img.shields.io/github/followers/omacolog?label=Followers&style=flat&color=0e75b6" alt="Followers" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omacolog&show_icons=true&locale=en&layout=compact" alt="omacolog" /></p>
+### 🙋‍♂️ About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omacolog&show_icons=true&locale=en" alt="omacolog" /></p>
+- 📱 I build **cross-platform mobile apps** with **Flutter & Dart**
+- 🍎 Currently diving into **native iOS development with Swift**
+- 🔥 Experienced with **Firebase** for auth, database and push notifications
+- 💬 Ask me about **Flutter, Dart, state management and mobile UI**
+- 🤝 Open to collaboration on open-source mobile projects
+- 📫 Reach me at **mehmetomac0@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omacolog&" alt="omacolog" /></p>
+---
 
+### 🛠️ Tech Stack
+
+**Mobile**
+
+<p align="left">
+  <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,swift,firebase" alt="Mobile stack" /></a>
+</p>
+
+**Backend & Languages**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js" alt="Backend and languages" />
+</p>
+
+**Web**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="Web stack" />
+</p>
+
+**Databases & Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,postman" alt="Databases and tools" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="48" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omacolog&show_icons=true&hide_border=true&locale=en&theme=default" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=omacolog&layout=compact&hide_border=true&locale=en&theme=default" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=omacolog&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://x.com/omacolog" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="https://linkedin.com/in/omacolog" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/omacolog" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://instagram.com/omacolog_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:mehmetomac0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
